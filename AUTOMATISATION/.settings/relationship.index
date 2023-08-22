@@ -20,6 +20,10 @@
     "type" : "job"
   },
   "relatedItems" : [ {
+    "id" : "AUTOMATISATION:_Y_szYDeBEe6JJtJRLjZDKg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
     "id" : "_OuV-cDgoEe6wEPOfBYo_Eg",
     "version" : "Latest",
     "type" : "property"
