@@ -13,4 +13,19 @@
     "version" : "Latest",
     "type" : "schema"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_dfvecED1Ee6rf5McY48Ryg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_OuV-cDgoEe6wEPOfBYo_Eg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_OuV-cDgoEe6wEPOfBYo_Eg - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]
