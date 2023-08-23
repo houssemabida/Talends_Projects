@@ -1,5 +1,20 @@
 [ {
   "baseItem" : {
+    "id" : "_3ukOcEGHEe6-5NIHAJ2b_w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "AUTOMATISATION:_52ogUDHzEe6Ngp7Oy5dOcQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "AUTOMATISATION:_Y_szYDeBEe6JJtJRLjZDKg",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_Y_szYDeBEe6JJtJRLjZDKg",
     "version" : "0.1",
     "type" : "job"
